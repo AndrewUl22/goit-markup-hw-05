@@ -644,16 +644,6 @@ img{
       transform:  translate(-50%, -50%);
      
 }
-/*
-.form{
-  display: flex;
-      align-items: flex-start;
-      justify-content: flex-start;
-      flex-direction: column;
-      gap: 8px;
-}
-      */
-      
 .form-input{
   border: 1px solid rgba(46, 47, 66, 0.4);
       border-radius: 4px;
